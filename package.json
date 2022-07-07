@@ -33,7 +33,7 @@
     "express-hbs": "^1.0.4",
     "express-session": "^1.15.5",
     "method-override": "^2.3.9",
-    "moment": "^2.19.1",
+    "moment": "^2.29.4",
     "mongoose": "^4.11.10",
     "mongoose-type-email": "^1.0.5",
     "morgan": "^1.8.2",
